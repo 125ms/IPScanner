@@ -4,7 +4,7 @@
 
 **Sentinel** es un escáner de puertos ligero con interfaz gráfica (GUI) desarrollado en Python. Este proyecto está diseñado para ser multiplataforma, funcionando tanto en entornos **Linux (Pop!_OS)** como en **Windows**.
 
-Diseñado por **Diego Galdos (CorteX Desings)** como parte de prácticas de Ingeniería en Sistemas Computacionales.
+Diseñado por **Diego Galdos (Lqyw)** como parte de prácticas de Ingeniería en Sistemas Computacionales.
 
 ## 🚀 Características
 *   **Interfaz Moderna**: Construida con `CustomTkinter` para un look oscuro y profesional.
